@@ -68,3 +68,7 @@ To clean and prepare a raw dataset by:
 The dataset was successfully transformed from a raw, inconsistent state into a clean and structured format suitable for analysis and visualization.
 
 ---
+## 📊 Outputs & Documentation
+
+- The cleaned dataset and all processed results are included in the project.
+- A detailed change log is included in the outputs folder documenting all data cleaning steps and transformations.
